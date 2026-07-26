@@ -45,7 +45,7 @@ efficient backends, and modern user experiences.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ace0731&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Ace0731&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </p>
 
 ---
